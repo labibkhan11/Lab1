@@ -6,13 +6,13 @@ This lab involves setting up Git/GitHub, learning how to use github from your de
 
 Mistakes in the Original Code and Fixes
 
-Unclosed <h1> Tag: Fixed by replacing <h1> with </h1>.
+Unclosed h1 Tag: Fixed by closing the tag.
 
-Unclosed <li> Tags: Added </li> to close all list items.
+Unclosed li Tags: Added < /li> to close all list items.
 
 Anchor Tag Syntax: Moved Click Here text inside the <a> tag.
 
-Improper <body> tag: Fixed it by placing the body tag in the correct place.
+Improper body tag: Fixed it by placing the body tag in the correct place.
 
 Steps Completed
 
