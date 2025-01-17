@@ -2,7 +2,7 @@ Lab 1: Debugging and Git/GitHub Setup
 
 Overview
 
-This lab involves setting up Git/GitHub, learning how to use github from your device, and debugging an HTML file to learn version control and HTML basics.
+This lab involves setting up Git/GitHub, learning how to use GitHub from your device, and debugging an HTML file to learn HTML basics.
 
 Mistakes in the Original Code and Fixes
 
